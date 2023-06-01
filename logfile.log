@@ -1,0 +1,509 @@
+2023-04-18 20:48:46 INFO  Log:15 - **
+2023-04-18 20:48:46 INFO  Log:16 - **
+2023-04-18 20:48:46 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-18 20:48:46 INFO  Log:27 -  My test case is executing right now
+2023-04-18 20:48:46 INFO  Log:31 - My test case might have some trivial issues
+2023-04-18 20:49:01 INFO  Log:27 - This test case is about to get completed
+2023-04-18 20:49:01 INFO  Log:22 - #######################
+2023-04-18 20:49:01 INFO  Log:23 - #######################
+2023-04-18 20:49:01 INFO  Log:24 - ###########This test case is finished############
+2023-04-18 21:57:34 INFO  Log:15 - **
+2023-04-18 21:57:34 INFO  Log:16 - **
+2023-04-18 21:57:34 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-18 21:57:34 INFO  Log:27 -  My test case is executing right now
+2023-04-18 21:57:34 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 12:16:58 INFO  Log:15 - **
+2023-04-19 12:16:58 INFO  Log:16 - **
+2023-04-19 12:16:58 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 12:16:58 INFO  Log:27 -  My test case is executing right now
+2023-04-19 12:16:58 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 12:17:05 INFO  Log:27 - This test case is about to get completed
+2023-04-19 12:17:05 INFO  Log:22 - #######################
+2023-04-19 12:17:05 INFO  Log:23 - #######################
+2023-04-19 12:17:05 INFO  Log:24 - ###########This test case is finished############
+2023-04-19 12:32:50 INFO  Log:15 - **
+2023-04-19 12:32:50 INFO  Log:16 - **
+2023-04-19 12:32:50 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 12:32:50 INFO  Log:27 -  My test case is executing right now
+2023-04-19 12:32:50 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 12:32:57 INFO  Log:27 - This test case is about to get completed
+2023-04-19 12:32:57 INFO  Log:22 - #######################
+2023-04-19 12:32:57 INFO  Log:23 - #######################
+2023-04-19 12:32:57 INFO  Log:24 - ###########This test case is finished############
+2023-04-19 12:45:41 INFO  Log:15 - **
+2023-04-19 12:45:41 INFO  Log:16 - **
+2023-04-19 12:45:41 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 12:45:41 INFO  Log:27 -  My test case is executing right now
+2023-04-19 12:45:41 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 12:45:48 INFO  Log:27 - This test case is about to get completed
+2023-04-19 12:45:48 INFO  Log:22 - #######################
+2023-04-19 12:45:48 INFO  Log:23 - #######################
+2023-04-19 12:45:48 INFO  Log:24 - ###########This test case is finished############
+2023-04-19 12:48:23 INFO  Log:15 - **
+2023-04-19 12:48:23 INFO  Log:16 - **
+2023-04-19 12:48:23 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 12:48:23 INFO  Log:27 -  My test case is executing right now
+2023-04-19 12:48:23 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 12:48:32 INFO  Log:27 - This test case is about to get completed
+2023-04-19 12:48:32 INFO  Log:22 - #######################
+2023-04-19 12:48:32 INFO  Log:23 - #######################
+2023-04-19 12:48:32 INFO  Log:24 - ###########This test case is finished############
+2023-04-19 13:22:53 INFO  Log:15 - **
+2023-04-19 13:22:53 INFO  Log:16 - **
+2023-04-19 13:22:53 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 13:22:53 INFO  Log:27 -  My test case is executing right now
+2023-04-19 13:22:53 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 13:23:03 INFO  Log:27 - This test case is about to get completed
+2023-04-19 13:23:03 INFO  Log:22 - #######################
+2023-04-19 13:23:03 INFO  Log:23 - #######################
+2023-04-19 13:23:03 INFO  Log:24 - ###########This test case is finished############
+2023-04-19 14:20:20 INFO  Log:15 - **
+2023-04-19 14:20:20 INFO  Log:16 - **
+2023-04-19 14:20:20 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 14:20:20 INFO  Log:27 -  My test case is executing right now
+2023-04-19 14:20:20 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 14:20:28 INFO  Log:27 - This test case is about to get completed
+2023-04-19 14:20:28 INFO  Log:22 - #######################
+2023-04-19 14:20:28 INFO  Log:23 - #######################
+2023-04-19 14:20:28 INFO  Log:24 - ###########This test case is finished############
+2023-04-19 15:31:13 INFO  Log:15 - **
+2023-04-19 15:31:13 INFO  Log:16 - **
+2023-04-19 15:31:13 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 15:31:13 INFO  Log:27 -  My test case is executing right now
+2023-04-19 15:31:13 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 15:31:21 INFO  Log:27 - This test case is about to get completed
+2023-04-19 15:31:21 INFO  Log:22 - #######################
+2023-04-19 15:31:21 INFO  Log:23 - #######################
+2023-04-19 15:31:21 INFO  Log:24 - ###########This test case is finished############
+2023-04-19 15:50:25 INFO  Log:15 - **
+2023-04-19 15:50:25 INFO  Log:16 - **
+2023-04-19 15:50:25 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 15:50:25 INFO  Log:27 -  My test case is executing right now
+2023-04-19 15:50:25 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 15:50:35 INFO  Log:27 - This test case is about to get completed
+2023-04-19 15:50:35 INFO  Log:22 - #######################
+2023-04-19 15:50:35 INFO  Log:23 - #######################
+2023-04-19 15:50:35 INFO  Log:24 - ###########This test case is finished############
+2023-04-19 15:58:34 INFO  Log:15 - **
+2023-04-19 15:58:34 INFO  Log:16 - **
+2023-04-19 15:58:34 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-19 15:58:34 INFO  Log:27 -  My test case is executing right now
+2023-04-19 15:58:34 INFO  Log:31 - My test case might have some trivial issues
+2023-04-19 15:58:42 INFO  Log:27 - This test case is about to get completed
+2023-04-19 15:58:42 INFO  Log:22 - #######################
+2023-04-19 15:58:42 INFO  Log:23 - #######################
+2023-04-19 15:58:42 INFO  Log:24 - ###########This test case is finished############
+2023-04-24 16:52:19 INFO  Log:15 - **
+2023-04-24 16:52:19 INFO  Log:16 - **
+2023-04-24 16:52:19 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-24 16:52:19 INFO  Log:27 -  My test case is executing right now
+2023-04-24 16:52:19 INFO  Log:31 - My test case might have some trivial issues
+2023-04-24 16:52:26 INFO  Log:27 - This test case is about to get completed
+2023-04-24 16:52:26 INFO  Log:22 - #######################
+2023-04-24 16:52:26 INFO  Log:23 - #######################
+2023-04-24 16:52:26 INFO  Log:24 - ###########This test case is finished############
+2023-04-26 11:38:18 INFO  Log:15 - **
+2023-04-26 11:38:18 INFO  Log:16 - **
+2023-04-26 11:38:18 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-26 11:38:18 INFO  Log:27 -  My test case is executing right now
+2023-04-26 11:38:18 INFO  Log:31 - My test case might have some trivial issues
+2023-04-26 11:38:27 INFO  Log:27 - This test case is about to get completed
+2023-04-26 11:38:27 INFO  Log:22 - #######################
+2023-04-26 11:38:27 INFO  Log:23 - #######################
+2023-04-26 11:38:27 INFO  Log:24 - ###########This test case is finished############
+2023-04-26 22:21:07 INFO  Log:15 - **
+2023-04-26 22:21:07 INFO  Log:16 - **
+2023-04-26 22:21:07 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-04-26 22:21:07 INFO  Log:27 -  My test case is executing right now
+2023-04-26 22:21:07 INFO  Log:31 - My test case might have some trivial issues
+2023-04-26 22:21:28 INFO  Log:27 - This test case is about to get completed
+2023-04-26 22:21:28 INFO  Log:22 - #######################
+2023-04-26 22:21:28 INFO  Log:23 - #######################
+2023-04-26 22:21:28 INFO  Log:24 - ###########This test case is finished############
+2023-05-13 12:41:57 INFO  Log:15 - **
+2023-05-13 12:41:57 INFO  Log:16 - **
+2023-05-13 12:41:57 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-13 12:41:57 INFO  Log:27 -  My test case is executing right now
+2023-05-13 12:41:57 INFO  Log:31 - My test case might have some trivial issues
+2023-05-13 12:42:00 INFO  Log:27 - This test case is about to get completed
+2023-05-13 12:42:00 INFO  Log:22 - #######################
+2023-05-13 12:42:00 INFO  Log:23 - #######################
+2023-05-13 12:42:00 INFO  Log:24 - ###########This test case is finished############
+2023-05-13 12:45:32 INFO  Log:15 - **
+2023-05-13 12:45:32 INFO  Log:16 - **
+2023-05-13 12:45:32 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-13 12:45:32 INFO  Log:27 -  My test case is executing right now
+2023-05-13 12:45:32 INFO  Log:31 - My test case might have some trivial issues
+2023-05-13 12:45:34 INFO  Log:27 - This test case is about to get completed
+2023-05-13 12:45:34 INFO  Log:22 - #######################
+2023-05-13 12:45:34 INFO  Log:23 - #######################
+2023-05-13 12:45:34 INFO  Log:24 - ###########This test case is finished############
+2023-05-13 12:53:04 INFO  Log:15 - **
+2023-05-13 12:53:04 INFO  Log:16 - **
+2023-05-13 12:53:04 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-13 12:53:04 INFO  Log:27 -  My test case is executing right now
+2023-05-13 12:53:04 INFO  Log:31 - My test case might have some trivial issues
+2023-05-13 12:53:05 INFO  Log:27 - This test case is about to get completed
+2023-05-13 12:53:05 INFO  Log:22 - #######################
+2023-05-13 12:53:05 INFO  Log:23 - #######################
+2023-05-13 12:53:05 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 15:57:10 INFO  Log:15 - **
+2023-05-16 15:57:10 INFO  Log:16 - **
+2023-05-16 15:57:10 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 15:57:10 INFO  Log:27 -  My test case is executing right now
+2023-05-16 15:57:10 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 15:57:12 INFO  Log:27 - This test case is about to get completed
+2023-05-16 15:57:12 INFO  Log:22 - #######################
+2023-05-16 15:57:12 INFO  Log:23 - #######################
+2023-05-16 15:57:12 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 16:00:34 INFO  Log:15 - **
+2023-05-16 16:00:34 INFO  Log:16 - **
+2023-05-16 16:00:34 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 16:00:34 INFO  Log:27 -  My test case is executing right now
+2023-05-16 16:00:34 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 16:00:36 INFO  Log:27 - This test case is about to get completed
+2023-05-16 16:00:36 INFO  Log:22 - #######################
+2023-05-16 16:00:36 INFO  Log:23 - #######################
+2023-05-16 16:00:36 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 17:30:51 INFO  Log:15 - **
+2023-05-16 17:30:51 INFO  Log:16 - **
+2023-05-16 17:30:51 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 17:30:51 INFO  Log:27 -  My test case is executing right now
+2023-05-16 17:30:51 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 17:31:00 INFO  Log:27 - This test case is about to get completed
+2023-05-16 17:31:00 INFO  Log:22 - #######################
+2023-05-16 17:31:00 INFO  Log:23 - #######################
+2023-05-16 17:31:00 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 17:32:19 INFO  Log:15 - **
+2023-05-16 17:32:19 INFO  Log:16 - **
+2023-05-16 17:32:19 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 17:32:19 INFO  Log:27 -  My test case is executing right now
+2023-05-16 17:32:19 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 17:32:29 INFO  Log:27 - This test case is about to get completed
+2023-05-16 17:32:29 INFO  Log:22 - #######################
+2023-05-16 17:32:29 INFO  Log:23 - #######################
+2023-05-16 17:32:29 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 17:38:12 INFO  Log:15 - **
+2023-05-16 17:38:12 INFO  Log:16 - **
+2023-05-16 17:38:12 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 17:38:12 INFO  Log:27 -  My test case is executing right now
+2023-05-16 17:38:12 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 17:38:22 INFO  Log:27 - This test case is about to get completed
+2023-05-16 17:38:22 INFO  Log:22 - #######################
+2023-05-16 17:38:22 INFO  Log:23 - #######################
+2023-05-16 17:38:22 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 18:36:07 INFO  Log:15 - **
+2023-05-16 18:36:07 INFO  Log:16 - **
+2023-05-16 18:36:07 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 18:36:07 INFO  Log:27 -  My test case is executing right now
+2023-05-16 18:36:07 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 18:36:16 INFO  Log:27 - This test case is about to get completed
+2023-05-16 18:36:16 INFO  Log:22 - #######################
+2023-05-16 18:36:16 INFO  Log:23 - #######################
+2023-05-16 18:36:16 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 18:47:44 INFO  Log:15 - **
+2023-05-16 18:47:44 INFO  Log:16 - **
+2023-05-16 18:47:44 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 18:47:44 INFO  Log:27 -  My test case is executing right now
+2023-05-16 18:47:44 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 18:47:53 INFO  Log:27 - This test case is about to get completed
+2023-05-16 18:47:53 INFO  Log:22 - #######################
+2023-05-16 18:47:53 INFO  Log:23 - #######################
+2023-05-16 18:47:53 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:00:44 INFO  Log:15 - **
+2023-05-16 19:00:44 INFO  Log:16 - **
+2023-05-16 19:00:44 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:00:44 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:00:44 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:00:54 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:00:54 INFO  Log:22 - #######################
+2023-05-16 19:00:54 INFO  Log:23 - #######################
+2023-05-16 19:00:54 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:01:24 INFO  Log:15 - **
+2023-05-16 19:01:24 INFO  Log:16 - **
+2023-05-16 19:01:24 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:01:24 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:01:24 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:01:34 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:01:34 INFO  Log:22 - #######################
+2023-05-16 19:01:34 INFO  Log:23 - #######################
+2023-05-16 19:01:34 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:16:51 INFO  Log:15 - **
+2023-05-16 19:16:51 INFO  Log:16 - **
+2023-05-16 19:16:51 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:16:51 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:16:51 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:17:00 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:17:00 INFO  Log:22 - #######################
+2023-05-16 19:17:00 INFO  Log:23 - #######################
+2023-05-16 19:17:00 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:25:32 INFO  Log:15 - **
+2023-05-16 19:25:32 INFO  Log:16 - **
+2023-05-16 19:25:32 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:25:32 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:25:32 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:25:42 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:25:42 INFO  Log:22 - #######################
+2023-05-16 19:25:42 INFO  Log:23 - #######################
+2023-05-16 19:25:42 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:32:57 INFO  Log:15 - **
+2023-05-16 19:32:57 INFO  Log:16 - **
+2023-05-16 19:32:57 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:32:57 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:32:57 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:35:57 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:35:57 INFO  Log:22 - #######################
+2023-05-16 19:35:57 INFO  Log:23 - #######################
+2023-05-16 19:35:57 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:36:37 INFO  Log:15 - **
+2023-05-16 19:36:37 INFO  Log:16 - **
+2023-05-16 19:36:37 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:36:37 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:36:37 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:36:47 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:36:47 INFO  Log:22 - #######################
+2023-05-16 19:36:47 INFO  Log:23 - #######################
+2023-05-16 19:36:47 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:41:12 INFO  Log:15 - **
+2023-05-16 19:41:12 INFO  Log:16 - **
+2023-05-16 19:41:12 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:41:12 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:41:12 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:41:20 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:41:20 INFO  Log:22 - #######################
+2023-05-16 19:41:20 INFO  Log:23 - #######################
+2023-05-16 19:41:20 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:41:24 INFO  Log:15 - **
+2023-05-16 19:41:24 INFO  Log:16 - **
+2023-05-16 19:41:24 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:41:24 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:41:24 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:41:38 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:41:38 INFO  Log:22 - #######################
+2023-05-16 19:41:38 INFO  Log:23 - #######################
+2023-05-16 19:41:38 INFO  Log:24 - ###########This test case is finished############
+2023-05-16 19:41:42 INFO  Log:15 - **
+2023-05-16 19:41:42 INFO  Log:16 - **
+2023-05-16 19:41:42 INFO  Log:17 - *********This is the beginning of my test case*********
+2023-05-16 19:41:42 INFO  Log:27 -  My test case is executing right now
+2023-05-16 19:41:42 INFO  Log:31 - My test case might have some trivial issues
+2023-05-16 19:41:46 INFO  Log:27 - This test case is about to get completed
+2023-05-16 19:41:46 INFO  Log:22 - #######################
+2023-05-16 19:41:46 INFO  Log:23 - #######################
+2023-05-16 19:41:46 INFO  Log:24 - ###########This test case is finished############
+
+******************************************
+Class 6
+
+recap -
+
+how to run collection -
+as per the requirement, we can include/exclude the api request and can run via collection to get the results in one time.
+
+we can select environment in postman - we provide variable of the env along with base URL
+in globals we usually pass our end points and token
+
+postman has built-in assertion library called chai -
+
+functions of Assertion can be found under snippets column in test
+
+majorly - we need to focus on these assertions -
+API status code
+response body (any key, any value)
+response headers (any header)
+response time
+
+
+REST assured API library
+
+REST web service, the REST web service allows data to be sent in JSON format/object
+
+JSON object consists of key and value pairs
+
+Rest assured is DSL (domain specific language) which is a java library used to automate REST API.
+
+REST assured library follows BDD (behavioral driven development) approach
+
+in cucumber
+Given - pre condition
+When - Actions
+Then - result/expected output
+
+in REST assured API
+given - preparing the request
+when - make a call/ send the request/ hitting the end point
+then - verification/assertions
+
+
+in postman -
+base URI = base URL + endpoint
+
+in rest assured API
+base URI = base URL
+
+hamcrest matchers -
+hamcrest is a popular framework that  helps us to create matcher objects.
+It is used for writing tests and performs testing in programming. Hamcrest is mainly
+used with other testing frameworks like junit.
+
+Class 6
+
+recap -
+
+how to run collection -
+as per the requirement, we can include/exclude the api request and can run via collection to get the results in one time.
+
+we can select environment in postman - we provide variable of the env along with base URL
+in globals we usually pass our end points and token
+
+postman has built-in assertion library called chai -
+
+functions of Assertion can be found under snippets column in test
+
+majorly - we need to focus on these assertions -
+API status code
+response body (any key, any value)
+response headers (any header)
+response time
+
+
+REST assured API library
+
+REST web service, the REST web service allows data to be sent in JSON format/object
+
+JSON object consists of key and value pairs
+
+Rest assured is DSL (domain specific language) which is a java library used to automate REST API.
+
+REST assured library follows BDD (behavioral driven development) approach
+
+in cucumber
+Given - pre condition
+When - Actions
+Then - result/expected output
+
+in REST assured API
+given - preparing the request
+when - make a call/ send the request/ hitting the end point
+then - verification/assertions
+
+
+in postman -
+base URI = base URL + endpoint
+
+in rest assured API
+base URI = base URL
+
+hamcrest matchers -
+hamcrest is a popular framework that  helps us to create matcher objects.
+It is used for writing tests and performs testing in programming. Hamcrest is mainly
+used with other testing frameworks like junit.
+
+Hamcrest matchers -
+class that contains methods to perform assertions
+
+JsonPath vs jsonPath()?
+
+JsonPath is a class
+jsonPath() is a method that belongs to JsonPath class
+ -
+class that contains methods to perform assertions
+
+JsonPath vs jsonPath()?
+
+JsonPath is a class
+jsonPath() is a method that belongs to JsonPath class
+
+******************************************************
+ in postman -
+base URI= base URL + endpoint
+
+in rest assured Api base URI
+ URI =base URL
+
+hamcrest matchers -
+hamcrest is a pupular framework that helps us to create matcher objects.00it is used for writing tests and performs
+ testing in programming. hamcrest is mainly used with other testing framework like junit
+
+ hamcrest matchers - class that contains methods to perform assertions
+
+JsonPath vs jsonPath()?
+JsonPath is a class
+jsonPath() is a method that belongs to JsonPath class
+
+hamcrest matchers -
+
+
+Class 8 -
+
+
+using different {}
+@Test  - Junit, to execute API test cases in hard coded examples class
+
+to integrate API in framework, we have to write API scenarios in feature file
+
+to generate token, we have created generate token steps class
+
+
+Class 9 -
+
+  recap :   using different (json) payload to create an employee
+
+created constants class to keep all the constants such as end points, headers, uri
+created api payload constants class - to send all the payload from the methods of this class
+retrieved the created employee and verify all the details of it
+
+
+
+
+
+
+
+
+
+
+2023-05-30 21:34:13 INFO  Log:15 - **
+2023-05-30 21:34:13 INFO  Log:16 - **
+2023-05-30 21:34:13 INFO  Log:17 - *********This is the beginning of my Test case*********
+2023-05-30 21:34:13 INFO  Log:27 - My test case is executing right now
+2023-05-30 21:34:13 INFO  Log:31 - My test case might have some trivial issues
+2023-05-30 21:34:40 INFO  Log:27 - This test case is about to get completed
+2023-05-30 21:34:40 INFO  Log:22 - #######################
+2023-05-30 21:34:40 INFO  Log:23 - #######################
+2023-05-30 21:34:40 INFO  Log:24 - ###########This test case is finished############
+2023-05-30 21:34:52 INFO  Log:15 - **
+2023-05-30 21:34:52 INFO  Log:16 - **
+2023-05-30 21:34:52 INFO  Log:17 - *********This is the beginning of my Test case*********
+2023-05-30 21:34:52 INFO  Log:27 - My test case is executing right now
+2023-05-30 21:34:52 INFO  Log:31 - My test case might have some trivial issues
+2023-05-30 21:35:16 INFO  Log:27 - This test case is about to get completed
+2023-05-30 21:35:16 INFO  Log:22 - #######################
+2023-05-30 21:35:16 INFO  Log:23 - #######################
+2023-05-30 21:35:16 INFO  Log:24 - ###########This test case is finished############
+2023-05-30 21:35:21 INFO  Log:15 - **
+2023-05-30 21:35:21 INFO  Log:16 - **
+2023-05-30 21:35:21 INFO  Log:17 - *********This is the beginning of my Test case*********
+2023-05-30 21:35:21 INFO  Log:27 - My test case is executing right now
+2023-05-30 21:35:21 INFO  Log:31 - My test case might have some trivial issues
+2023-05-30 21:35:26 INFO  Log:27 - This test case is about to get completed
+2023-05-30 21:35:26 INFO  Log:22 - #######################
+2023-05-30 21:35:26 INFO  Log:23 - #######################
+2023-05-30 21:35:26 INFO  Log:24 - ###########This test case is finished############
+2023-05-30 21:36:13 INFO  Log:15 - **
+2023-05-30 21:36:13 INFO  Log:16 - **
+2023-05-30 21:36:13 INFO  Log:17 - *********This is the beginning of my Test case*********
+2023-05-30 21:36:13 INFO  Log:27 - My test case is executing right now
+2023-05-30 21:36:13 INFO  Log:31 - My test case might have some trivial issues
+2023-05-30 21:36:31 INFO  Log:27 - This test case is about to get completed
+2023-05-30 21:36:31 INFO  Log:22 - #######################
+2023-05-30 21:36:31 INFO  Log:23 - #######################
+2023-05-30 21:36:31 INFO  Log:24 - ###########This test case is finished############
+2023-05-30 21:40:42 INFO  Log:15 - **
+2023-05-30 21:40:42 INFO  Log:16 - **
+2023-05-30 21:40:42 INFO  Log:17 - *********This is the beginning of my Test case*********
+2023-05-30 21:40:42 INFO  Log:27 - My test case is executing right now
+2023-05-30 21:40:42 INFO  Log:31 - My test case might have some trivial issues
+2023-05-30 21:40:55 INFO  Log:27 - This test case is about to get completed
+2023-05-30 21:40:55 INFO  Log:22 - #######################
+2023-05-30 21:40:55 INFO  Log:23 - #######################
+2023-05-30 21:40:55 INFO  Log:24 - ###########This test case is finished############
